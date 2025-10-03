@@ -1,0 +1,22 @@
+      ⚛ QUANTUM MECHANICS ⚛
+    ═══════════════════════════
+
+         ○ ○ ○ ○ ○ ○ ○
+        ○ ○ ○ ○ ○ ○ ○ ○
+       ○ ○ ○ ◉ ○ ○ ○ ○ ○
+        ○ ○ ○ ○ ○ ○ ○ ○
+         ○ ○ ○ ○ ○ ○ ○
+
+    ┌───────────────────────────┐
+    │  The more precisely the   │
+    │  position is determined,  │
+    │   the less precisely the  │
+    │   momentum is known.      │
+    │                           │
+    │   Δx · Δp ≥ ℏ/2           │
+    └───────────────────────────┘
+
+         ≈≈≈ WAVE ≈≈≈
+        ψ    ψ    ψ    ψ
+
+       p = ℏk    E = ℏω

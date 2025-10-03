@@ -1,0 +1,13 @@
+     ⚛                            ∇ · E = ρ/ε₀
+    ⊙ ⊙      QUANTUM
+   ⊙ ◉ ⊙     PHYSICS              ∇ · B = 0
+    ⊙ ⊙
+     ⊙                            ∇ × E = -∂B/∂t
+
+    ╔═══╗                         ∇ × B = μ₀J + μ₀ε₀∂E/∂t
+   ╱ ░░░ ╲    SPOOKY
+  │ ░███░ │   ACTION              ┌─────────────────┐
+  │ ░███░ │   AT A                │  "God does not  │
+   ╲ ░░░ ╱    DISTANCE            │  play dice..."  │
+    ╚═══╝                         │    - Einstein   │
+    👻 ψ                          └─────────────────┘

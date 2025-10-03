@@ -1,0 +1,21 @@
+    ╔═══════════════════════╗
+    ║    UNCERTAINTY        ║
+    ╚═══════════════════════╝
+
+          ⊙
+         ╱ ╲
+        ⊙ ◉ ⊙
+         ╲ ╱
+          ⊙
+
+    ╔═══════════════════════╗
+    ║ "You cannot measure   ║
+    ║  both position and    ║
+    ║  momentum with        ║
+    ║  perfect accuracy."   ║
+    ║                       ║
+    ║  - Heisenberg         ║
+    ║    Principle          ║
+    ╚═══════════════════════╝
+
+        ℏ = 1.054×10⁻³⁴ J·s

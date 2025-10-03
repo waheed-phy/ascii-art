@@ -1,0 +1,13 @@
+       ⚛                         ┌─────────────────────┐
+      ◉ ◉                        │  ∇ · E = ρ/ε₀       │
+     ◉ ⊕ ◉  Atom                 │                     │
+      ◉ ◉                        │  ∇ · B = 0          │
+       ◉    Electrons            │                     │
+                                 │  ∇ × E = -∂B/∂t     │
+   ╔═══════╗                     │                     │
+   ║ ◉   ◉ ║  Entangled          │  ∇ × B = μ₀J +      │
+   ║   ≈   ║  Particles          │        μ₀ε₀∂E/∂t    │
+   ║ ◉   ◉ ║                     └─────────────────────┘
+   ╚═══╪═══╝
+       ψ    Spooky!              E = Electric Field
+                                 B = Magnetic Field
